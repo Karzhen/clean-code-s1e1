@@ -50,16 +50,16 @@
 }
 
 ul {
-    margin:0;
+    margin: 0;
     padding: 0;
 }
 
 li {
-    list-style:none;
+    list-style: none;
 }
 
-input,button{
-    outline:none;
+input, button {
+    outline: none;
 }
 
 .button {
@@ -160,14 +160,14 @@ input,button{
 
 /* Edit Task */
 .section__list .section__list-item .input-task {
-    display:none;
+    display: none;
 }
 
 .section__list .section__list-item.edit-mode .input-task {
-    display:inline-block;
-    width:224px;
+    display: inline-block;
+    width: 224px;
 }
 
 .section__list .section__list-item.edit-mode .label {
-    display:none;
+    display: none;
 }
